@@ -18,16 +18,16 @@ Hypothesis Testing in Python
 
 Projects:
 
-(Hypothesis testing was done on data belonging to the Binary, Nominal, Ordinal and Scale variables)
-Single Sample Hypothesis Testing: Analyzing data from General Social Studies or Students Statistics to perform hypothesis testing on a single variable.
-Two Sample Hypothesis Testing: Comparing data from General Social Studies or Students Statistics to conduct hypothesis testing on two variables.
-Three or More Variables Hypothesis Testing: Analyzing data from General Social Studies or Students Statistics to perform hypothesis testing on three or more variables.
+(Hypothesis testing was done on data belonging to the Binary, Nominal, Ordinal, and Scale variables)
+Single Sample Hypothesis Testing: Analyzing data from General Social Studies or Student Statistics to perform hypothesis testing on a single variable.
+Two Sample Hypothesis Testing: Comparing data from General Social Studies or Student Statistics to conduct hypothesis testing on two variables.
+Three or More Variables Hypothesis Testing: Analyzing data from General Social Studies or Student Statistics to perform hypothesis testing on three or more variables.
 
 Datasets and Python Libraries used:
 
 General Social Studies (GSS2012a.csv)
 Students Statistics (StudentStatistics.csv)
-Numpy, Pandas, Matplotlib.pyplot, scipy.stats, and other related.
+Numpy, Pandas, Matplotlib, scipy.stats, and other related.
 
 Learning Outcomes:
 
