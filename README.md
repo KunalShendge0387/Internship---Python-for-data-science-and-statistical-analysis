@@ -6,9 +6,9 @@ This repository contains the code and materials for a 2-month virtual internship
 
 Internship Details:
 
-Duration: 2 months 
-Platform: Virtual
-Instructor: Mr. Pranav Nerurkar
+- Duration: 2 months 
+- Platform: Virtual
+- Instructor: Mr. Pranav Nerurkar
 
 Topics Covered:
 
